@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Pandita
-- 👀 I’m interested in Javascript Environment
-- 🌱 I’m currently working on JavaScript Stack
+- 🌱 Currently working on JavaScript Stack
+- 👀 Interested in exploring Javascript Environment
 - 📫 You can reach me at 'ayushpandita27@gmail.com'
 
 <!---
